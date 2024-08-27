@@ -62,7 +62,7 @@ Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Ca
 
 ## Office Hours
 
-[Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
+Please find my office hours appointment at <a href="https://www.oliverbonhamcarter.com/contactandabout/" target="_blank">here.</a>
 
 URL; https://www.oliverbonhamcarter.com/contactandabout/
 
