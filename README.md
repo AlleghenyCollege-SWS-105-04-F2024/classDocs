@@ -284,6 +284,7 @@ If you would like more information on the College's Harassment, Discrimination a
 Below is a __tentative__ schedule of covered topics and activities.
 
 | Week # | Dates | Topic |
+| :--- | :---- | :--- |
 | 1 | Wed, 28 August | Syllabus, Course Introduction, Survey |
 | 2 | Monday, 2 Sept | No class |
 | 3 | Wednesday, 4 Sept | Types of Digital Information, Activity |
