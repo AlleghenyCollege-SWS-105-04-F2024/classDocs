@@ -6,15 +6,22 @@ Semester: FALL 2024
 
 ## Syllabus Version
 
-28 August 2024
+29 August 2024
 
 This document contains information about (SWS 105) Introduction to Communication Competencies including the course objectives, policies and the schedule. Please check this document for updates to the course schedule, or for common inquiries about the class -- your answer may already exist below.
+
+## Attendance form
+
+Please complete the __attendence__ [form](https://forms.gle/yFomECWZ8Rd4V93F9) for each class meeting and lab.
+
+Note: keeping attendance is part of our class policy.
 
 ## Table of Contents
 
 - [SWS\*105-04: Intro to Comm Competencies](#sws105-04-intro-to-comm-competencies)
   - [Course Syllabus](#course-syllabus)
   - [Syllabus Version](#syllabus-version)
+  - [Attendance form](#attendance-form)
   - [Table of Contents](#table-of-contents)
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
@@ -153,17 +160,17 @@ The grade that a student receives in this class will be based on the following c
 ### Definitions of Grading Categories
 
 - Class Activities: All students are required to actively participate during all of the class sessions. Your participation will take forms of completing in-class exercises that involve reflections on the required readings and videos, conducting peer-interviews, engaging in constructive discussions in class, and experimenting with various technologies online. Unless other information is given about due dates, activities are to be completed by the end of class.
-- Writings: Students will be reading articles and materials given in class to prepare essays on assigned subjects. These assignments enable students to gn skills in communicating points of view or conceptual ideas. For each assignment, there will clear expectations listed about the boundaries and scope of the assigned writing assignment. In addition, there is a due date, and an expiration date which must be respected as we will be having peer-editing sessions where class members pr together to discuss writing samples.
+- Writings: Students will be reading articles and materials given in class to prepare essays on assigned subjects. These assignments enable students to gain skills in communicating points of view or conceptual ideas. For each assignment, there will clear expectations listed about the boundaries and scope of the assigned writing assignment. In addition, there is a due date, and an expiration date which must be respected as we will be having peer-editing sessions where class members pair together to discuss writing samples.
 - Presentations: Students will be given many speaking opportunities during the class. Giving talks to peers in class is an enriching experience that offers numerous benefits for both the speaker and the audience. For the speaker, crafting a short and effective talk requires careful planning and organization of ideas. This process helps the speaker develop clarity in their thoughts and refine their communication skills, ensuring that they can convey complex concepts succinctly and persuasively. Furthermore, creating a compelling set of slides to accompany the presentation enhances visual storytelling abilities and encourages creativity in design and data representation. Additionally, delivering the talk in front of listeners provides valuable feedback, enabling the speaker to improve their delivery and address any questions or misconceptions on the spot. Overall, giving talks in class not only bolsters public speaking and presentation skills but also fosters critical thinking, effective communication, and collaboration among peers.
-- Final Project: This speaking and writing project will present you with an opportunity to design and implement a written and oral work where your thesis follows some ethical violation, and negative impacts of improper data usage. For example, essays could follow themes of usage including; transparency & liability, miscommunication /misinformation, bias in Artificial Intelligence due to improperly or partially trned models, and similar types of topics.
+- Final Project: This speaking and writing project will present you with an opportunity to design and implement a written and oral work where your thesis follows some ethical violation, and negative impacts of improper data usage. For example, essays could follow themes of usage including; transparency & liability, miscommunication /misinformation, bias in Artificial Intelligence due to improperly or partially trained models, and similar types of topics.
 
 ## Attendance
 
-It is mandatory for all students to attend the class sessions. If you will not be able to attend a session, then please see/eml the course instructor at least one week in advance to describe your situation. Students who miss more than five (5) unexcused classes meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten (10) of the aforementioned events will automatically fl the course.
+It is mandatory for all students to attend the class sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five (5) unexcused classes meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten (10) of the aforementioned events will automatically fail the course.
 
 ## Communication
 
-Various digital channels will be used in this course for communication, including eml, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
+Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the course. 
 
@@ -173,11 +180,11 @@ Your grades will be communicated to you by a Canvas
 
 Your class instructor will be using Canvas to collect all assignments. It is expected that you are able to effectively use this software to submit your work. If you require help, please see your peers or your instructor. Please verify all your submissions to ensure that the instructor is able to find your work. If the instructor is unable to find your work, then you cannot receive credit. The honor code (see below) is assumed for all submitted work.
 
-_Please do not eml your work to the instructor._
+_Please do not email your work to the instructor._
 
 ## Submissions
 
-There will be two deadlines for each activity or assignment for class. The first deadline is will grant the submission all earned credit, however if the first deadline is missed, then  the second deadline will result in a reduction of 15% of the earned credit. After this second deadline, the assignment has expired and will not be accepted. In cases of documented extenuating circumstance, (a family emergency, sickness or similar) then please see the instructor to determine a solution.
+In this course, we will follow department's policies regarding attendance, late assignment submissions, and AI use.
 
 ## Allegheny College Policy and Awareness Statements
 
@@ -285,9 +292,9 @@ Below is a __tentative__ schedule of covered topics and activities.
 
 | Week # | Dates | Topic |
 | :--- | :---- | :--- |
-| 1 | Wed, 28 August | Syllabus, Course Introduction, Survey |
+| 1 | Wed, 28 August | Course Introduction, Survey |
 | 2 | Monday, 2 Sept | No class |
-| 3 | Wednesday, 4 Sept | Types of Digital Information, Activity |
+| 3 | Wednesday, 4 Sept | Syllabus, Getting to know you [survey](https://forms.gle/SSZzSUj42bebGNMi7), Types of Digital Information, Activity |
 | 4 | Monday, 9 Sept | Origins of Digital Information, Activity |
 | 5 | Wednesday, 11 Sept | Writing Assignment 1: Planning |
 | 6 | Monday, 16 Sept | Data Function and Misconceptions, Activity, Writing Assignment 1: Outline/Proposal |
