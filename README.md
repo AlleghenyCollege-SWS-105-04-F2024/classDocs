@@ -27,6 +27,7 @@ Note: keeping attendance is part of our class policy.
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
   - [Discord](#discord)
+    - [Discord Channel](#discord-channel)
   - [Course Deliverable](#course-deliverable)
   - [Course Description](#course-description)
   - [Topic Description](#topic-description)
