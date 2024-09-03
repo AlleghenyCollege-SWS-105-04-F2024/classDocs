@@ -327,10 +327,10 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 5 | Wednesday, 11 Sept | Writing Assignment 1: Planning |
 | 6 | Monday, 16 Sept | Data Function and Misconceptions, Activity, Writing Assignment 1: Outline/Proposal |
 | 7 | Wednesday, 18 Sept | Lightning Talk Presentations |
-| 8 | Monday, 23 Sept | TBA | 
+| 8 | Monday, 23 Sept | Honor Code Presentation, Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
 | 9 | Wednesday, 25 Sept | Writing Assignment 1: Draft DUE, Peer Review |
-| 10 | Monday, 30 Sept | Impact of digital information, Activity |
-| 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE |
+| 10 | Monday, 30 Sept | Writing Assignment 1 DUE  |
+| 11 | Wednesday, 2 Oct | Impact of digital information, Activity|
 | 12 | Monday, 7 Oct | Ethics in Data Usage, Activity |
 | 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
