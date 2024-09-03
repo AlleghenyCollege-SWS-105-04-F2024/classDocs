@@ -81,7 +81,7 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 
 ## Discord
 
-To facilitate communications in the course, Discord (a direct messaging system) will be used. You will need to create an account with Discord at URL; [http://www.dicord.com](http://www.dicord.com) and then join the course' Discord server using [https://discord.gg/CKqBC7rp](https://discord.gg/CKqBC7rp) before you can be added to the course's channel.
+To facilitate communications in the course, Discord (a direct messaging system) will be used. You will need to create an account with Discord at URL; [http://www.dicord.com](http://www.dicord.com) and then join the course' Discord server using the link below in [#discord-channel](#discord-channel).
 
 ### Discord Channel
 
