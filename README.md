@@ -6,13 +6,13 @@ Semester: FALL 2024
 
 ## Syllabus Version
 
-29 August 2024
+2 September 2024
 
 This document contains information about (SWS 105) Introduction to Communication Competencies including the course objectives, policies and the schedule. Please check this document for updates to the course schedule, or for common inquiries about the class -- your answer may already exist below.
 
 ## Attendance form
 
-Please complete the __attendence__ [form](https://forms.gle/yFomECWZ8Rd4V93F9) for each class meeting and lab.
+Please complete the __attendance__ [form](https://forms.gle/yFomECWZ8Rd4V93F9) for each class meeting and lab.
 
 Note: keeping attendance is part of our class policy.
 
@@ -41,8 +41,11 @@ Note: keeping attendance is part of our class policy.
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
   - [Attendance](#attendance)
   - [Communication](#communication)
-  - [Assignment Submission](#assignment-submission)
-  - [Submissions](#submissions)
+  - [Receiving Grades](#receiving-grades)
+  - [Submission of Assignments via Canvas](#submission-of-assignments-via-canvas)
+  - [Assignment Submission Policies](#assignment-submission-policies)
+  - [Requesting Extensions](#requesting-extensions)
+  - [Handling Extenuating Circumstances](#handling-extenuating-circumstances)
   - [Allegheny College Policy and Awareness Statements](#allegheny-college-policy-and-awareness-statements)
     - [Statement of Community](#statement-of-community)
     - [Academic Integrity](#academic-integrity)
@@ -81,7 +84,7 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 
 ## Discord
 
-To facilitate communications in the course, Discord (a direct messaging system) will be used. You will need to create an account with Discord at URL; [http://www.dicord.com](http://www.dicord.com) and then join the course' Discord server using the link below in Secion [#discord-channel](#discord-channel).
+To facilitate communications in the course, Discord (a direct messaging system) will be used. You will need to create an account with Discord at URL; [http://www.dicord.com](https://www.discord.com) and then join the course' Discord server using the link below in Secion [#discord-channel](#discord-channel).
 
 ### Discord Channel
 
@@ -178,19 +181,36 @@ It is mandatory for all students to attend the class sessions. If you will not b
 
 Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
 
-Additionally, the course website will be used to store the syllabus, course schedule and information about the course. 
+Additionally, the course website will be used to store the syllabus, course schedule and information about the course.
+
+## Receiving Grades
 
 Your grades will be communicated to you by a Canvas
 
-## Assignment Submission
+## Submission of Assignments via Canvas
 
-Your class instructor will be using Canvas to collect all assignments. It is expected that you are able to effectively use this software to submit your work. If you require help, please see your peers or your instructor. Please verify all your submissions to ensure that the instructor is able to find your work. If the instructor is unable to find your work, then you cannot receive credit. The honor code (see below) is assumed for all submitted work.
+In our class, you are required to submit all assignments through Canvas, which is the platform utilized by your instructor for collecting and managing student work. To ensure a smooth submission process, please familiarize yourself with using this software efficiently. Should you encounter any difficulties, kindly consult your peers or approach your instructor for assistance. It is essential that you confirm the receipt of your submissions to prevent any potential loss of credit due to the instructor's inability to locate your work.
 
-_Please do not email your work to the instructor._
+_Please refrain from emailing your assignments directly to your instructor._
 
-## Submissions
+## Assignment Submission Policies
 
-In this course, we will follow department's policies regarding attendance, late assignment submissions, and AI use.
+All class assignments will be accompanied by a _stated due date_ and a _late submission deadline_ (the latest date for submitting an assignment, which is one week after the original due date). Students are expected to submit their electronic versions of the assignments during lab sessions on the specified due dates. Late submissions will be accepted up until one week past the stated due date but will incur a 15% penalty. All late submissions must be handed in at the beginning of the session scheduled one week after the original due date.
+
+_Assignments will not be accepted beyond one week past the assigned due date._
+
+## Requesting Extensions
+
+Unless otherwise arranged with your instructor, _no extensions will be granted for lab assignments_ after the late submission deadline. Students seeking extensions for lab submissions must email their request along with a valid reason for their extension before the assignment's original due date. The decision to grant an extension is made considering fairness towards peers who are still able to meet deadlines, regardless of individual schedules.
+
+## Handling Extenuating Circumstances
+
+Should you encounter exceptional circumstances that hinder your preparation and completion of class assignments, please reach out to me as soon as possible to discuss alternative arrangements. It is essential that you do not wait until the last day of class to request exceptions, as stated in this syllabus. In case of unforeseen difficulties, you may also seek assistance from campus resources:
+
+- [Maytum Center for Student Success](https://sites.allegheny.edu/learningcommons/)
+- [Allegheny College Counseling Center](https://sites.allegheny.edu/learningcommons/)
+- [The Winslow Health Center](https://sites.allegheny.edu/healthcenter/)
+- [Student Life](https://sites.allegheny.edu/studentlife/)
 
 ## Allegheny College Policy and Awareness Statements
 
