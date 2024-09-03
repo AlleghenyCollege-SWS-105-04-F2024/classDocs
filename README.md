@@ -26,7 +26,8 @@ Note: keeping attendance is part of our class policy.
   - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
-  - [Discord](#discord)
+  - [Communication](#communication)
+    - [Discord](#discord)
     - [Discord Channel](#discord-channel)
   - [Course Deliverable](#course-deliverable)
   - [Course Description](#course-description)
@@ -40,7 +41,6 @@ Note: keeping attendance is part of our class policy.
   - [Categories](#categories)
     - [Definitions of Grading Categories](#definitions-of-grading-categories)
   - [Attendance](#attendance)
-  - [Communication](#communication)
   - [Receiving Grades](#receiving-grades)
   - [Submission of Assignments via Canvas](#submission-of-assignments-via-canvas)
   - [Assignment Submission Policies](#assignment-submission-policies)
@@ -82,7 +82,13 @@ URL; https://www.oliverbonhamcarter.com/contactandabout/
 - Alden Hall 109
   - M/W 11:00 AM - 12:15 PM 27 August 2024 - 12 December 2024
 
-## Discord
+## Communication
+
+Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
+
+Additionally, the course website will be used to store the syllabus, course schedule and information about the course.
+
+### Discord
 
 To facilitate communications in the course, Discord (a direct messaging system) will be used. You will need to create an account with Discord at URL; [http://www.dicord.com](https://www.discord.com) and then join the course' Discord server using the link below in Secion [#discord-channel](#discord-channel).
 
@@ -90,6 +96,8 @@ To facilitate communications in the course, Discord (a direct messaging system) 
 
 To join the Discord server for the class, please use the below URL.
 - [https://discord.gg/CKqBC7rp](https://discord.gg/CKqBC7rp)
+
+Note, please see instructor if this link has expired.
 
 ## Course Deliverable
 
@@ -176,12 +184,6 @@ The grade that a student receives in this class will be based on the following c
 ## Attendance
 
 It is mandatory for all students to attend the class sessions. If you will not be able to attend a session, then please see/email the course instructor at least one week in advance to describe your situation. Students who miss more than five (5) unexcused classes meetings will have their final grade in the course reduced by one letter grade. Students who miss more than ten (10) of the aforementioned events will automatically fail the course.
-
-## Communication
-
-Various digital channels will be used in this course for communication, including email, Discord, and the GitHub issue tracker. It is strongly advised for the student to install the Discord app on their computer and smart-phone to be sure to receive all communications from the instructor, as well as, the other members of the class.
-
-Additionally, the course website will be used to store the syllabus, course schedule and information about the course.
 
 ## Receiving Grades
 
