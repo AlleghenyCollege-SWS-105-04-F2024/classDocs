@@ -12,7 +12,7 @@ This document contains information about (SWS 105) Introduction to Communicatio
 
 ## Attendance form
 
-Please complete the __attendance__ [form](https://forms.gle/yFomECWZ8Rd4V93F9) for each class meeting and lab.
+Please complete the __attendance__ [form](https://forms.gle/yFomECWZ8Rd4V93F9) for each class meeting.
 
 Note: keeping attendance is part of our class policy.
 
