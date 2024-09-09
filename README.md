@@ -323,7 +323,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 1 | Wed, 28 August | Course Introduction, Survey |
 | 2 | Monday, 2 Sept | No class |
 | 3 | Wednesday, 4 Sept | Syllabus, Getting to know you [survey](https://forms.gle/SSZzSUj42bebGNMi7), Types of Digital Information, Activity; [Digital Information Literacy - What, how, why](https://www.youtube.com/watch?v=7eCTinlBG2c) and [Introduction to Crash Course Navigating Digital Information](https://www.youtube.com/watch?v=pLlv2o6UfTU) |
-| 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity |
+| 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity, __Reading__: [_Twelve Million Phones, One Dataset, Zero Privacy_](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) |
 | 5 | Wednesday, 11 Sept | Writing Assignment 1: Planning |
 | 6 | Monday, 16 Sept | Data Function and Misconceptions, Activity, Writing Assignment 1: Outline/Proposal |
 | 7 | Wednesday, 18 Sept | Lightning Talk Presentations |
