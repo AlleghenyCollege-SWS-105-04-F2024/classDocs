@@ -267,7 +267,7 @@ Experienced peer writing and speaking consultants in the Maytum Center for Stude
 
 ### Gator Days and Scholar Symposium (prepared by MCSS and URSCA)
 
-In each semester, we have one Gator Day set aside for programming, with no classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook – Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus. We
+In each semester, we have one Gator Day set aside without classes. Fall Gator Day is held on the first Tuesday in November (coinciding with election day). Spring Gator Day is held on a Monday in early April. These all-college programming days  feature programs and workshops that highlight educational opportunities at Allegheny, that prepare students for life after graduation, and that help to create a greater sense of campus community. Additionally, in the Spring, during the Richard J Cook – Teresa M Lahti Scholars Symposium (the day immediately after classes end and before exams begin), we gather to celebrate student research, scholarship, and creative activities on campus. We
 
 #### Class Deans (prepared by MCSS)
 
