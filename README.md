@@ -4,6 +4,13 @@
 
 Semester: FALL 2024
 
+## Instructor
+
+Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Carter_)
+
++ Office Location: Alden Hall 203
++ Email: obonhamcarter@allegheny.edu
+
 ## Syllabus Version
 
 2 September 2024
@@ -63,13 +70,6 @@ Note: keeping attendance is part of our class policy.
       - [Recording Policy (prepared by Campus Life and Community Standards Committee)](#recording-policy-prepared-by-campus-life-and-community-standards-committee)
       - [Harassment, Discrimination, and Sexual Misconduct Reporting (prepared by the Title IX Coordinator)](#harassment-discrimination-and-sexual-misconduct-reporting-prepared-by-the-title-ix-coordinator)
     - [Schedule](#schedule)
-
-## Instructor
-
-Dr. Oliver Bonham-Carter (Note: said and written as __Bonham-Carter__, not _Carter_)
-
-+ Office Location: Alden Hall 203
-+ Email: obonhamcarter@allegheny.edu
 
 ## Office Hours
 
