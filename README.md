@@ -324,9 +324,9 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | Monday, 2 Sept | No class |
 | 3 | Wednesday, 4 Sept | Syllabus, Getting to know you [survey](https://forms.gle/SSZzSUj42bebGNMi7), Types of Digital Information, Activity; [Digital Information Literacy - What, how, why](https://www.youtube.com/watch?v=7eCTinlBG2c) and [Introduction to Crash Course Navigating Digital Information](https://www.youtube.com/watch?v=pLlv2o6UfTU) |
 | 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity, __Reading__: [_Twelve Million Phones, One Dataset, Zero Privacy_](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) |
-| 5 | Wednesday, 11 Sept | Writing Assignment 1: Planning |
-| 6 | Monday, 16 Sept | Data Function and Misconceptions, Activity, Writing Assignment 1: Outline/Proposal |
-| 7 | Wednesday, 18 Sept | Lightning Talk Presentations |
+| 5 | Wednesday, 11 Sept | Writing activity |
+| 6 | Monday, 16 Sept | Writing Assignment 1: Impact of Data Narrative |
+| 7 | Wednesday, 18 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic |
 | 8 | Monday, 23 Sept | Honor Code Presentation, Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
 | 9 | Wednesday, 25 Sept | Writing Assignment 1: Draft DUE, Peer Review |
 | 10 | Monday, 30 Sept | Writing Assignment 1 DUE  |
@@ -335,9 +335,9 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
 | 15 | Wednesday, 16 Oct | Writing Assignment 1 Revisions DUE, Writing Assignment 2: Planning |
-| 16 |Monday, 21 Oct | Writing Assignment 1: Outline/Proposal Reading and Writing With Data in Research |
+| 16 |Monday, 21 Oct | Writing Assignment 2: Reading and Writing With Data in Research |
 | 17 | Wednesday, 23 Oct | TBA |
-| 18 | Monday, 28 Oct | Lightning Talk Presentations |
+| 18 | Monday, 28 Oct | Lightning Talk Presentations on Writing Assignment 2 Topic |
 | 19 | Wednesday, 30 Oct | Writing Assignment 2: Draft DUE, Peer Review |
 | 20 | Monday, 4 Nov | Data Bias, Activity |
 | 21 | Wednesday, 6 Nov | Writing Assignment 2 DUE | 
