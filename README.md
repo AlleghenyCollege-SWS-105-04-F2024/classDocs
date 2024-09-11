@@ -324,7 +324,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | Monday, 2 Sept | No class |
 | 3 | Wednesday, 4 Sept | Syllabus, Getting to know you [survey](https://forms.gle/SSZzSUj42bebGNMi7), Types of Digital Information, Activity; [Digital Information Literacy - What, how, why](https://www.youtube.com/watch?v=7eCTinlBG2c) and [Introduction to Crash Course Navigating Digital Information](https://www.youtube.com/watch?v=pLlv2o6UfTU) |
 | 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity, __Reading__: [_Twelve Million Phones, One Dataset, Zero Privacy_](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) |
-| 5 | Wednesday, 11 Sept | Writing activity |
+| 5 | Wednesday, 11 Sept | Writing assignment01: Write about your venture out to collect data from last class  |
 | 6 | Monday, 16 Sept | Writing Assignment 1: Impact of Data Narrative |
 | 7 | Wednesday, 18 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic |
 | 8 | Monday, 23 Sept | Honor Code Presentation, Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
