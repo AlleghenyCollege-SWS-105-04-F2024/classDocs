@@ -324,13 +324,13 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 2 | Monday, 2 Sept | No class |
 | 3 | Wednesday, 4 Sept | Syllabus, Getting to know you [survey](https://forms.gle/SSZzSUj42bebGNMi7), Types of Digital Information, Activity; [Digital Information Literacy - What, how, why](https://www.youtube.com/watch?v=7eCTinlBG2c) and [Introduction to Crash Course Navigating Digital Information](https://www.youtube.com/watch?v=pLlv2o6UfTU) |
 | 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity, __Reading__: [_Twelve Million Phones, One Dataset, Zero Privacy_](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) |
-| 5 | Wednesday, 11 Sept | Writing assignment01: Write about your venture out to collect data from last class  |
-| 6 | Monday, 16 Sept | Writing Assignment 1: Impact of Data Narrative |
-| 7 | Wednesday, 18 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic |
+| 5 | Wednesday, 11 Sept | Writing activity 1: Write about your venture out to collect data from last class  |
+| 6 | Monday, 16 Sept | Writing activity 1 Peer Interview |
+| 7 | Wednesday, 18 Sept |  Writing Assignment 1: Impact of Data Narrative. Outline.  |
 | 8 | Monday, 23 Sept | Honor Code Presentation, Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
-| 9 | Wednesday, 25 Sept | Writing Assignment 1: Draft DUE, Peer Review |
-| 10 | Monday, 30 Sept | Writing Assignment 1 DUE  |
-| 11 | Wednesday, 2 Oct | Impact of digital information, Activity|
+| 9 | Wednesday, 25 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic  |
+| 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, Peer Review  |
+| 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. Impact of digital information, Activity|
 | 12 | Monday, 7 Oct | Ethics in Data Usage, Activity |
 | 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
