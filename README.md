@@ -27,10 +27,10 @@ Note: keeping attendance is part of our class policy.
 
 - [SWS\*105-04: Intro to Comm Competencies](#sws105-04-intro-to-comm-competencies)
   - [Course Syllabus](#course-syllabus)
+  - [Instructor](#instructor)
   - [Syllabus Version](#syllabus-version)
   - [Attendance form](#attendance-form)
   - [Table of Contents](#table-of-contents)
-  - [Instructor](#instructor)
   - [Office Hours](#office-hours)
   - [Meeting Times](#meeting-times)
   - [Communication](#communication)
@@ -326,7 +326,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 4 | Monday, 9 Sept | Data Literacy and Origins of (Digital) Information, Activity, __Reading__: [_Twelve Million Phones, One Dataset, Zero Privacy_](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html) |
 | 5 | Wednesday, 11 Sept | Writing activity 1: Write about your venture out to collect data from last class  |
 | 6 | Monday, 16 Sept | Writing activity 1 Peer Interview |
-| 7 | Wednesday, 18 Sept |  Writing Assignment 1: Impact of Data Narrative. Outline.  |
+| 7 | Wednesday, 18 Sept | __Video__: [How to write an outline](https://www.youtube.com/watch?v=CSnpATHIhmk) Writing Assignment 1: Impact of Data Narrative. Outline.  |
 | 8 | Monday, 23 Sept | Honor Code Presentation, Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
 | 9 | Wednesday, 25 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic  |
 | 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, Peer Review  |
