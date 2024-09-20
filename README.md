@@ -336,7 +336,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
 | 15 | Wednesday, 16 Oct | Writing Assignment 1 Revisions DUE, Writing Assignment 2: Planning |
 | 16 |Monday, 21 Oct | Writing Assignment 2: Reading and Writing With Data in Research |
-| 17 | Wednesday, 23 Oct | TBA |
+| 17 | Wednesday, 23 Oct | Prof Venesky to Talk about URSCA at 11:30pm |
 | 18 | Monday, 28 Oct | Lightning Talk Presentations on Writing Assignment 2 Topic |
 | 19 | Wednesday, 30 Oct | Writing Assignment 2: Draft DUE, Peer Review |
 | 20 | Monday, 4 Nov | Data Bias, Activity |
