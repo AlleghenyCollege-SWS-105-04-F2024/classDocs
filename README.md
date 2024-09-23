@@ -327,7 +327,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 5 | Wednesday, 11 Sept | Writing activity 1: Write about your venture out to collect data from last class  |
 | 6 | Monday, 16 Sept | Writing activity 1 Peer Interview |
 | 7 | Wednesday, 18 Sept | __Video__: [How to write an outline](https://www.youtube.com/watch?v=CSnpATHIhmk), Writing Assignment 1: Impact of Data Narrative. Outline.  |
-| 8 | Monday, 23 Sept | Anna Turhan to come give a presentation on the Honor Code (11:00am), Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial) |
+| 8 | Monday, 23 Sept | Anna Turhan to come give a presentation on the Honor Code (11:00am), Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial), Prep for lightning talks, __Video__: [TED's secret to great public speaking](https://www.youtube.com/watch?v=-FOCpMAww28) |
 | 9 | Wednesday, 25 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic  |
 | 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, Peer Review  |
 | 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. Impact of digital information, Activity|
