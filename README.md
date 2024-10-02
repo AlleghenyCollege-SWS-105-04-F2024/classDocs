@@ -330,7 +330,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 8 | Monday, 23 Sept | Anna Turhan to come give a presentation on the Honor Code (11:00am), Tutorial, Module 1: [https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial](https://www.umgc.edu/current-students/learning-resources/academic-integrity/tutorial), Prep for lightning talks, __Video__: [TED's secret to great public speaking](https://www.youtube.com/watch?v=-FOCpMAww28) |
 | 9 | Wednesday, 25 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic  |
 | 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, [Peer Review: Activity for Writing Assignment 1](https://forms.gle/NCB7vaqaR6tgXBgu6) (due next class)  |
-| 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. __Video__:[How to Write an Essay: 4 Minute Step-by-step Guide](https://www.youtube.com/watch?v=UuOWNNvupik), Impact of digital information __Video__:[The 'Digital Divide' and COVID-19's Impact on Internet Access](https://www.youtube.com/watch?v=xkbZPAJF88k), Activity|
+| 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. __Video__:[How to Write an Essay: 4 Minute Step-by-step Guide](https://www.youtube.com/watch?v=UuOWNNvupik), Impact of digital information __Video__:[The 'Digital Divide' and COVID-19's Impact on Internet Access](https://www.youtube.com/watch?v=xkbZPAJF88k), __Recommended Video__:[Digital Literacy Skills to Succeed in Learning and Beyond](https://www.youtube.com/watch?v=GgEGbMPJcAo)|
 | 12 | Monday, 7 Oct | Ethics in Data Usage, Activity |
 | 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
