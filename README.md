@@ -331,7 +331,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 9 | Wednesday, 25 Sept | Lightning Talk Presentations on Writing Assignment 1 Topic  |
 | 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, [Peer Review: Activity for Writing Assignment 1](https://forms.gle/NCB7vaqaR6tgXBgu6) (due next class)  |
 | 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. __Video__:[How to Write an Essay: 4 Minute Step-by-step Guide](https://www.youtube.com/watch?v=UuOWNNvupik), Impact of digital information __Video__:[The 'Digital Divide' and COVID-19's Impact on Internet Access](https://www.youtube.com/watch?v=xkbZPAJF88k), __Recommended Video__:[Digital Literacy Skills to Succeed in Learning and Beyond](https://www.youtube.com/watch?v=GgEGbMPJcAo)|
-| 12 | Monday, 7 Oct | Ethics in Data Usage, Activity |
+| 12 | Monday, 7 Oct | __Video__:[The Digital Divide: could you live without the internet?](https://www.youtube.com/watch?v=KHPrpl1p8kU), Ethics in Data Usage, Activity |
 | 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
 | 14 | Monday, 14 Oct | Distilling factual information, Activity
 | 15 | Wednesday, 16 Oct | Writing Assignment 1 Revisions DUE, Writing Assignment 2: Planning |
