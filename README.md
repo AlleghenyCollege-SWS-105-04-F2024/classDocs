@@ -332,12 +332,12 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 10 | Monday, 30 Sept | Writing Assignment 1: Draft DUE, [Peer Review: Activity for Writing Assignment 1](https://forms.gle/NCB7vaqaR6tgXBgu6) (due next class)  |
 | 11 | Wednesday, 2 Oct | Writing Assignment 1 DUE. __Video__: How to Write an Essay: 4 Minute Step-by-step Guide](https://www.youtube.com/watch?v=UuOWNNvupik), Impact of digital information __Video__: [The 'Digital Divide' and COVID-19's Impact on Internet Access](https://www.youtube.com/watch?v=xkbZPAJF88k), __Recommended Video__: [Digital Literacy Skills to Succeed in Learning and Beyond](https://www.youtube.com/watch?v=GgEGbMPJcAo)|
 | 12 | Monday, 7 Oct | __Article__:[Millions of Americans Might Lose Internet Access Today. Here’s What You Need to Know](https://www.wired.com/story/affordable-connectivity-program-ending/), __Video__:[The Digital Divide: could you live without the internet?](https://www.youtube.com/watch?v=KHPrpl1p8kU), Ethics in Data Usage, Activity (Canvas: Activity 05), Lightning talk Assignment (Canvas Lightning Talk 02)|
-| 13 | Wednesday, 9 Oct | Writing Assignment 1: Revision Plan | 
-| 14 | Monday, 14 Oct | Distilling factual information, Activity
-| 15 | Wednesday, 16 Oct | Writing Assignment 1 Revisions DUE, Writing Assignment 2: Planning |
-| 16 |Monday, 21 Oct | Writing Assignment 2: Reading and Writing With Data in Research |
-| 17 | Wednesday, 23 Oct | Prof Venesky to Talk about URSCA at 11:30pm |
-| 18 | Monday, 28 Oct | Lightning Talk Presentations on Writing Assignment 2 Topic |
+| 13 | Wednesday, 9 Oct | Presentations |
+| 14 | Monday, 14 Oct | No class
+| 15 | Wednesday, 16 Oct | Distilling factual information, Activity|
+| 16 | Monday, 21 Oct | Writing Assignment 1, Revisions Plan, Writing Assignment 2: Planning |
+| 17 | Wednesday, 23 Oct |Writing Assignment 2: Reading and Writing With Data in Research, Prof Venesky to Talk about URSCA at 11:30pm |
+| 18 | Monday, 28 Oct | Writing Assignment 1: Revisions DUE, Lightning Talk Presentations on Writing Assignment 2 Topic |
 | 19 | Wednesday, 30 Oct | Writing Assignment 2: Draft DUE, Peer Review |
 | 20 | Monday, 4 Nov | Data Bias, Activity |
 | 21 | Wednesday, 6 Nov | Writing Assignment 2 DUE | 
