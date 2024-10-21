@@ -197,7 +197,7 @@ _Please refrain from emailing your assignments directly to your instructor._
 
 ## Assignment Submission Policies
 
-All class assignments will be accompanied by a _stated due date_ and a _late submission deadline_ (the latest date for submitting an assignment, which is one week after the original due date). Students are expected to submit their electronic versions of the assignments during lab sessions on the specified due dates. Late submissions will be accepted up until one week past the stated due date but will incur a 15% penalty. All late submissions must be handed in at the beginning of the session scheduled one week after the original due date.
+All class assignments will be accompanied by a _stated due date_ and a _late submission deadline_ (the latest date for submitting an assignment, which is one week after the original due date). Unless there of other instructions concerning submissions, students are expected to submit the electronic versions of assignments by the start of class on specified due dates. Late submissions will be accepted up until one week past the stated due date but will incur a 15% penalty. All late submissions must be made at the beginning of the session scheduled one week after the original due date.
 
 _Assignments will not be accepted beyond one week past the assigned due date._
 
