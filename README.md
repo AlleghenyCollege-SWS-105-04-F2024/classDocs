@@ -159,8 +159,7 @@ The below reading list is recommended to improve students' writing and speaking 
 |A| 96 - 100    |A-| 90 - 95.9 |
 |B+| 87 - 89.9  |B|  83 - 86.9 |B-| 80 - 82.9 |
 |C+| 77 - 79.9  |C|  73 - 76.9 |C-| 70 - 72.9 |
-|D+| 67 - 69.9  |D|  63 - 66.9 |F | 59.9 and below |
-
+|D+| 67 - 69.9  |D|  63 - 69.9 |F | 62.9 and below |
 
 ## Categories
 
