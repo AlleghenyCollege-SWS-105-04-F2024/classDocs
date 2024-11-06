@@ -337,11 +337,11 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 16 | Monday, 21 Oct | Writing Assignment 1 feedback, Revisions Plan, Activity 07 (Canvas) In Preparation for Writing Assignment 2, __Article__: [Campus Wi-Fi struggles as infrastructure update continues](https://alleghenycampus.com/23117/news/campus-wi-fi-struggles-as-infrastructure-update-continues/)|
 | 17 | Wednesday, 23 Oct |Writing Assignment 2: Reading and Writing With Data in Research, Prof Venesky to Talk about URSCA at 11:30pm, __Video__: [Getting to the Bottom of the Digital Divide](https://www.youtube.com/watch?v=9UswAFqfiJs), Activity 08 (Canvas) |
 | 18 | Monday, 28 Oct | Writing Assignment 1: Revisions DUE, Lightning Talk Presentations on Writing Assignment 2 Topic |
-| 19 | Wednesday, 30 Oct | Writing Assignment 2: Draft DUE, Peer Review |
+| 19 | Wednesday, 30 Oct | __Presentations__: Lightning Talk 3, Writing Assignment 2: Draft DUE, Peer Review |
 | 20 | Monday, 4 Nov | Data Bias, Activity |
-| 21 | Wednesday, 6 Nov |Lightning Talk Presentations | 
-| 20 | Monday, 11 Nov |Writing Assignment 2 (Draft) DUE |
-| 21 | Wednesday, 13 Nov | Writing Assignment 2: Peer Review, Revision Plan |
+| 21 | Wednesday, 6 Nov |Outlines for Writing Assignment 2 Due, Lightning Talk Presentations | 
+| 20 | Monday, 11 Nov |Draft for Writing Assignment 2 DUE |
+| 21 | Wednesday, 13 Nov | Writing Assignment 2: Peer Review, Work on revision plan |
 | 22 | Monday, 18 Nov | Writing Assignment 2 Due, Final Project discussion |
 | 23 | Wednesday, 20 Nov |Final Project discussion: Planning the Proposal, Activity|
 | 24 | Monday, 25 Nov |Writing Assignment Revision 2 Due, Lightning Talk Presentations| 
