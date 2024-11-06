@@ -339,12 +339,12 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 18 | Monday, 28 Oct | Writing Assignment 1: Revisions DUE, Lightning Talk Presentations on Writing Assignment 2 Topic |
 | 19 | Wednesday, 30 Oct | Writing Assignment 2: Draft DUE, Peer Review |
 | 20 | Monday, 4 Nov | Data Bias, Activity |
-| 21 | Wednesday, 6 Nov | Writing Assignment 2 DUE | 
-| 20 | Monday, 11 Nov | Final Project: Planning |
-| 21 | Wednesday, 13 Nov | Writing Assignment 2: Revision Plan |
-| 22 | Monday, 18 Nov | Final Project: Proposal |
-| 23 | Wednesday, 20 Nov | Writing Assignment 2 Revisions DUE|
-| 24 | Monday, 25 Nov | Lightning Talk Presentations| 
+| 21 | Wednesday, 6 Nov |Lightning Talk Presentations | 
+| 20 | Monday, 11 Nov |Writing Assignment 2 (Draft) DUE |
+| 21 | Wednesday, 13 Nov | Writing Assignment 2: Peer Review, Revision Plan |
+| 22 | Monday, 18 Nov | Writing Assignment 2 Due, Final Project discussion |
+| 23 | Wednesday, 20 Nov |Final Project discussion: Planning the Proposal, Activity|
+| 24 | Monday, 25 Nov |Writing Assignment Revision 2 Due, Lightning Talk Presentations| 
 | 25 | Wednesday, 27 Nov | Final Project: Work in progress draft, Peer Review | 
 | 26 | Monday, 2 Dec | Final Project: Completed Draft |
 | 27 | Wednesday, 4 Dec | Final Project: Revisions|
