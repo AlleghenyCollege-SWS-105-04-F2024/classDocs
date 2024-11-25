@@ -347,7 +347,7 @@ Below is a __tentative__ schedule of covered topics and activities.
 | 24 | Monday, 25 Nov |Lightning Talk Presentations| 
 | 24 | Tuesday, 26 Nov | Writing Assignment Revision 2 Due (An extra day given to work)| 
 | 25 | Wednesday, 27 Nov | Final Project: Work in progress draft, Peer Review | 
-| 26 | Monday, 2 Dec | Final Project: Completed Draft |
+| 26 | Monday, 2 Dec | Final Project: Discussion and Assignment |
 | 27 | Wednesday, 4 Dec | Final Project: Revisions|
 | 28 | Monday, 9 Dec | Presentations |
 |29 | Monday, 16 Dec | Final Project Due |
